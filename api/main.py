@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from deta import Deta
 from fastapi.encoders import jsonable_encoder
 from fastapi.middleware.cors import CORSMiddleware
+import env
 
 app = FastAPI()
 
@@ -17,7 +18,7 @@ app.add_middleware(
 
 
 # Initialize with a Project Key
-deta = Deta("__PROJECT_KEY__")
+deta = Deta(env.project_key)
 
 # This how to connect to or create a database.
 usernames_db = deta.Base("usernames_db")
