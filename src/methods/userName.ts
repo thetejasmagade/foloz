@@ -1,1 +1,3 @@
-export let userName = "thetejasmagade"
+export function getUserName(){
+    return "Tejas Magade"
+}

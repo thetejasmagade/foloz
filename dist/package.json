@@ -1,6 +1,6 @@
 {
     "name": "foloz",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "The best description for foloz",
     "main": "lib/es5/main.js",
     "module": "lib/es6/main.js",
