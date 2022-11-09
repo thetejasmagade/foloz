@@ -1,0 +1,12 @@
+{
+    "name": "fakedata.js",
+    "version": "0.0.1",
+    "author": "Tejas Magade <magadetejas5@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "build": "tsc && tsc --build tsconfig.es5.json"
+    },
+    "devDependencies": {
+        "typescript": "^4.8.4"
+    }
+}

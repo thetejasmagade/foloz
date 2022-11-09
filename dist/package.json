@@ -1,0 +1,30 @@
+{
+    "name": "fakedata.js",
+    "version": "0.0.1",
+    "description": "The best description for fakedata.js",
+    "main": "lib/es5/main.js",
+    "module": "lib/es6/main.js",
+    "sideEffects": false,
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/thetejasmagade/fakedata.js.git"
+    },
+    "files": [
+      "lib",
+      "CHANGELOG.md",
+      "LICENSE",
+      "package.json",
+      "README.md"
+    ],
+    "keywords": [
+      "javascript",
+      "utils",
+      "utilities"
+    ],
+    "author": "Tejas Magade",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/thetejasmagade/fakedata.js/issues"
+    },
+    "homepage": "https://github.com/thetejasmagade/fakedata.js"
+  }
