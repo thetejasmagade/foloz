@@ -1,13 +1,13 @@
 {
-    "name": "spurious.js",
+    "name": "foloz",
     "version": "0.0.1",
-    "description": "The best description for spurious.js",
+    "description": "The best description for foloz",
     "main": "lib/es5/main.js",
     "module": "lib/es6/main.js",
     "sideEffects": false,
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/thetejasmagade/spurious.js.git"
+      "url": "git+https://github.com/thetejasmagade/foloz.git"
     },
     "files": [
       "lib",
@@ -24,7 +24,7 @@
     "author": "Tejas Magade",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/thetejasmagade/spurious.js/issues"
+      "url": "https://github.com/thetejasmagade/foloz/issues"
     },
-    "homepage": "https://github.com/thetejasmagade/spurious.js"
+    "homepage": "https://github.com/thetejasmagade/foloz"
   }
