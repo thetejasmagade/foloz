@@ -1,2 +1,6 @@
 node_modules
 dist/lib
+
+api/__pycache__
+api/.deta
+api/env
